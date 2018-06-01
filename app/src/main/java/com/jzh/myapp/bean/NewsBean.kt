@@ -10,13 +10,4 @@ class NewsBean {
 
 
 
-
-    class NewsData{
-
-       // var
-
-    }
-
-
-
 }

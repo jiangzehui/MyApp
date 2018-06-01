@@ -1,13 +1,14 @@
 package com.jzh.myapp.util
 
-import android.content.Context
 import android.widget.Toast
+import com.jzh.myapp.base.MyApplication.Companion.context
 
 /**
  * Created by jiangzehui on 2018/5/30.
+ * 提示类
  */
 object T {
-    var context: Context? = null
+
 
 
     fun show(msg:String){

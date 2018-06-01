@@ -3,7 +3,6 @@ package com.jzh.myapp.Api
 import com.jzh.myapp.Api.converter.JsonConverterFactory
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
-import retrofit2.converter.gson.GsonConverterFactory
 
 /**
  * Created by jiangzehui on 2018/5/29.

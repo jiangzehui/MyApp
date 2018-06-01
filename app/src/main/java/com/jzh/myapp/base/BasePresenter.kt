@@ -5,7 +5,7 @@ import java.lang.ref.WeakReference
 /**
  * Created by jiangzehui on 2018/5/29.
  */
-class BasePresenter<V> {
+open class BasePresenter<V> {
 
     protected var mViewReference: WeakReference<V>? = null
 

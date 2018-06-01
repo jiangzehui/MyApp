@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="title_regster">注  册</string>
+    <string name="regster_user">请输入账号</string>
+    <string name="regster_pswd">请输入密码</string>
+    <string name="regster_enter">注  册</string>
+    <string name="login_enter">登  录</string>
+    <string name="login_error">"用户名或者密码不能为空"</string>
+    <string name="regster_name">请输入昵称</string>
 </resources>

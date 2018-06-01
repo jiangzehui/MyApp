@@ -3,7 +3,12 @@ package com.jzh.myapp.mvp.logo.view
 /**
  * Created by jiangzehui on 2018/5/31.
  */
-interface LoginView {
+interface LogoView {
+
+    fun gotoMain()
+
+
+
 
 
 

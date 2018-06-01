@@ -11,7 +11,7 @@ class ApiInterceptor : Interceptor{
     override fun intercept(chain: Interceptor.Chain): Response {
         var request = chain.request().run {
 
-            var url = chain.request().url().toString()
+
 
             newBuilder().method(method(), body()).url(url().newBuilder()
                     .scheme(url().scheme())
